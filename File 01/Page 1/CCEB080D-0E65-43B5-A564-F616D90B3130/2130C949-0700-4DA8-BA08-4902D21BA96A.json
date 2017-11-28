@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2130C949-0700-4DA8-BA08-4902D21BA96A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 264,
+    "x": 118,
+    "y": 110
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Avataaar/Circle",
+  "nameIsFixed": false,
+  "overrides": {
+    "1CD9C76A-ECB0-460D-ABB6-387F04FE18F7": {
+      "symbolID": "05C9536B-6432-4E62-B9D1-A0F363E6A1BB"
+    },
+    "4160E993-6288-4704-9B40-90651A8E3D50": {
+      "symbolID": "93D47A8E-450C-4857-BE22-13AC8CC5F92C"
+    },
+    "5514C31D-9968-46D8-9DA1-3D0A4839B1A5": {
+      "symbolID": "EF9E43A9-17C0-4DCA-9788-845F82D22578"
+    },
+    "D72BDB62-892D-467B-9EFC-CB9EDBD7F1C1": {
+      "symbolID": "008B9E42-E3DE-4338-A7F5-D29147EE3DC2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7AFB61BE-B1B9-46FA-900A-605779F112BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
